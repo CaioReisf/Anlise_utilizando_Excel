@@ -141,14 +141,6 @@ Com base nos dados analisados:
 - Produtos com alta venda e baixa receita devem ter sua estratégia revisada.
 
 
-
-# Conclusão
-
-O projeto demonstrou como ferramentas do Excel podem ser utilizadas para transformar dados brutos em informações estratégicas.
-
-Através da análise e visualização dos dados foi possível identificar padrões comerciais e criar uma visão mais clara do desempenho da empresa.
-
-
 # Aprendizados
 
 Durante o desenvolvimento deste projeto foram aprimorados conhecimentos em:
